@@ -1,0 +1,3 @@
+pytest>=8.0
+# optional, for ClaudePlanner
+anthropic>=0.40
